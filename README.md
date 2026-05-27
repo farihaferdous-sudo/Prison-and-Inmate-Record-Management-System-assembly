@@ -64,18 +64,7 @@ This feature processes internal inmate transfer requests between cell blocks.
 
 Before transferring an inmate, the system checks whether the destination cell block has available capacity. If the transfer is valid, the system updates the occupancy records of both the original and destination cell blocks.
 
-## Key Functionalities
 
-- Inmate profile creation
-- Duplicate ID validation
-- Sentence duration tracking
-- Release date calculation
-- Cell block assignment
-- Cell occupancy management
-- Incident recording
-- Sentence extension after incidents
-- Parole eligibility checking
-- Inmate transfer between blocks
 
 ## Technologies Used
 
