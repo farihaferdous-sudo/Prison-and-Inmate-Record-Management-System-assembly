@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-The **Prison and Inmate Record Management System** is an assembly language-based project designed to manage basic prison operations such as inmate registration, sentence tracking, cell block assignment, incident reporting, parole checking, and inmate transfers.
+The **Prison and Inmate Record Management System** is an assembly language-based project designed to manage basic prison operations such as inmate registration, sentence tracking, cell block assignment, incident reporting, parole checking and inmate transfers.
 
-The system stores inmate records using arrays and applies validation logic to maintain accurate records, prevent duplicate inmate IDs, track cell occupancy, and update release dates based on sentence changes or disciplinary incidents.
+The system stores inmate records using arrays and applies validation logic to maintain accurate records, prevent duplicate inmate IDs, track cell occupancy and update release dates based on sentence changes or disciplinary incidents.
 
 ## Features
 
@@ -59,7 +59,7 @@ This feature checks whether inmates are eligible for parole based on predefined 
 - Minimum required sentence time served
 - No recent disciplinary incidents
 
-Eligible inmates are displayed by the system, and a parole recommendation list is generated.
+Eligible inmates are displayed by the system and a parole recommendation list is generated.
 
 ---
 
@@ -91,4 +91,4 @@ Before transferring an inmate, the system checks whether the destination cell bl
 
 ## Purpose of the Project
 
-The main purpose of this project is to demonstrate how prison and inmate record management operations can be implemented using low-level assembly language concepts. It focuses on structured data handling, modular procedures, validation, and logical decision-making.
+The main purpose of this project is to demonstrate how prison and inmate record management operations can be implemented using low-level assembly language concepts. It focuses on structured data handling, modular procedures, validation and logical decision-making.
