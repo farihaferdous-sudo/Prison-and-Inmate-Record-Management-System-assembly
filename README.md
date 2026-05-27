@@ -33,7 +33,6 @@ A dedicated reusable procedure is used for release date calculation. This proced
 
 The system also flags inmates whose release date falls within the current simulated month.
 
----
 
 ### Feature 3: Cell Block Assignment and Occupancy Management
 
@@ -41,7 +40,6 @@ This feature assigns inmates to cell blocks based on crime severity and availabl
 
 The system keeps track of occupancy for each cell block and prevents assigning inmates to a block that has already reached its maximum capacity.
 
----
 
 ### Feature 4: Incident Reporting and Penalty Extension
 
@@ -49,7 +47,6 @@ This feature records disciplinary incidents for inmates.
 
 Each incident is linked to a specific inmate and can extend the inmate's sentence by a defined penalty period. After the penalty is applied, the inmate's release date is updated automatically.
 
----
 
 ### Feature 5: Parole Eligibility Checker
 
@@ -60,7 +57,6 @@ This feature checks whether inmates are eligible for parole based on predefined 
 
 Eligible inmates are displayed by the system and a parole recommendation list is generated.
 
----
 
 ### Feature 6: Inmate Transfer Between Cell Blocks
 
