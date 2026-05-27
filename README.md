@@ -20,7 +20,6 @@ This feature allows the system to register new inmates by storing their basic in
 
 The system stores inmate names and crime categories in arrays and validates inmate IDs to prevent duplicate records.
 
----
 
 ### Feature 2: Sentence Tracking and Release Date Calculation
 
