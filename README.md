@@ -4,7 +4,7 @@
 
 The **Prison and Inmate Record Management System** is an assembly language-based project designed to manage basic prison operations such as inmate registration, sentence tracking, cell block assignment, incident reporting, parole checking and inmate transfers.
 
-The system stores inmate records using arrays and applies validation logic to maintain accurate records, prevent duplicate inmate IDs, track cell occupancy and update release dates based on sentence changes or disciplinary incidents
+The system stores inmate records using arrays and applies validation logic to maintain accurate records, prevent duplicate inmate IDs, track cell occupancy and update release dates based on sentence changes or disciplinary incidents.
 
 ## Features
 
